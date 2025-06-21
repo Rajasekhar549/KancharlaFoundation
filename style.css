@@ -1,0 +1,44 @@
+div{
+border:2px solid blue;
+border-left:2px solid white;
+border-right:2px solid white;
+border-top:20px solid blue;
+
+}
+img{
+   width:150px;
+   height:150px;
+   padding:80px;
+}
+#first{
+  color:red;
+text-align:center;
+}
+.second{
+    color:white;
+    background-color:blue;
+text-align:center;
+}
+table{
+border:2px solid black;
+width:100%;
+}
+tr,td{
+  border:2px solid black;
+}
+th{
+ border:2px solid black;
+}
+td:hover{
+background-color:green;
+}
+.margin{
+margin-left:px;
+margin-right:150px;
+
+}
+.mar{
+margin-left:50px;
+
+
+}
